@@ -1,4 +1,4 @@
-# Elementals  backendDeveloper Task
+# Elementals backendDeveloper Task
 
 ## Setup
 Make containers and run
@@ -44,7 +44,7 @@ http://127.0.0.1:8000/sl/user/39/
 ```
 
 ## APIs for admin
-####admin login: admin admin
+### admin login: admin admin
 \
 API to get list with counter of all links\
 or create the new one for whatever user. \
@@ -61,7 +61,7 @@ for example:
 ```bash
 http://127.0.0.1:8000/sl/admin/39/
 ```
-##JWT API
+## JWT API
 API to take JWT, take access token and use it with `Bearer` to have access to GET and POST API. \
 POST - username and password and return JWT.
 ```bash
